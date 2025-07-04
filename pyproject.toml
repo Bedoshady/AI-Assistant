@@ -1,0 +1,13 @@
+[project]
+name = "microsoftagent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "langchain-google-genai>=2.1.6",
+    "langchain[google-genai]>=0.3.26",
+    "langgraph>=0.5.1",
+    "python-dotenv>=1.1.1",
+]
