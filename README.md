@@ -13,3 +13,4 @@ uv venv
 ```
 uv pip install -r pyproject.toml 
 ```
+The prompts for the agents are in the .prompts file
